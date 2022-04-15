@@ -1,0 +1,16 @@
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\bin\Debug\Wpf-Projeto.exe.config
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\bin\Debug\Wpf-Projeto.exe
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\bin\Debug\Wpf-Projeto.pdb
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\Wpf-Projeto.csproj.AssemblyReference.cache
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\App.g.cs
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\Wpf-Projeto_MarkupCompile.cache
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\Wpf-Projeto_MarkupCompile.lref
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\MainWindow.baml
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\Wpf-Projeto.g.resources
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\Wpf_Projeto.Properties.Resources.resources
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\Wpf-Projeto.csproj.GenerateResource.cache
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\Wpf-Projeto.csproj.CoreCompileInputs.cache
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\Wpf-Projeto.exe
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\Wpf-Projeto.pdb
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\teladeloginWPF.g.cs
+C:\Users\alunos\source\repos\Wpf-Projeto\Wpf-Projeto\obj\Debug\teladeloginWPF.baml
